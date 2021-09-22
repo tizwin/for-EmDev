@@ -3,7 +3,7 @@ import java.io.IOException;
 
 public class Alphabet {
 
-	public void readText() throws IOException {//Считывание данных из файла и подсчет слов
+	public void readText() throws  {//Считывание данных из файла и подсчет слов
 
 		StringBuffer line = new StringBuffer();
 		String line1;
